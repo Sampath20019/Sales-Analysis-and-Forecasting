@@ -1,0 +1,501 @@
+product_id,title,category,price,discount_pct,final_price,rating,num_reviews,availability,seller,scraped_date,product_url
+WSP0001,Ultra Wireless Lamp,Fashion,1263.75,5,1200.56,4.4,42,Out of Stock,ShopPlus,2025-05-27,https://example-shop.com/product/WSP0001
+WSP0002,Eco Bluetooth Headphones,Sports,616.95,30,431.87,3.9,42,Out of Stock,OfficialStore,2025-04-01,https://example-shop.com/product/WSP0002
+WSP0003,Classic Deluxe Headphones,Sports,1003.44,25,752.58,3.5,39,Out of Stock,OfficialStore,2024-08-20,https://example-shop.com/product/WSP0003
+WSP0004,Eco Compact Headphones,Sports,1282.64,30,897.85,2.9,41,In Stock,ShopPlus,2024-09-25,https://example-shop.com/product/WSP0004
+WSP0005,Classic Bluetooth Speaker,Sports,406.14,15,345.22,3.3,34,In Stock,OfficialStore,2025-03-26,https://example-shop.com/product/WSP0005
+WSP0006,Classic Deluxe Speaker,Home,410.35,5,389.83,4.4,116,Limited Stock,OfficialStore,2025-07-18,https://example-shop.com/product/WSP0006
+WSP0007,Ultra Compact Charger,Beauty,547.99,25,410.99,4.2,28,Limited Stock,TopSeller,2025-04-22,https://example-shop.com/product/WSP0007
+WSP0008,Ultra Deluxe Speaker,Fashion,817.74,15,695.08,2.8,47,Limited Stock,OfficialStore,2025-03-11,https://example-shop.com/product/WSP0008
+WSP0009,Smart Portable Charger,Electronics,1049.0,25,786.75,4.7,98,Out of Stock,DealsHub,2025-04-09,https://example-shop.com/product/WSP0009
+WSP0010,Premium Bluetooth Speaker,Fashion,792.05,0,792.05,3.7,37,In Stock,QuickMart,2025-04-27,https://example-shop.com/product/WSP0010
+WSP0011,Ultra Portable Backpack,Fashion,494.99,15,420.74,4.4,46,In Stock,TopSeller,2025-04-06,https://example-shop.com/product/WSP0011
+WSP0012,Smart Portable Charger,Beauty,1479.77,0,1479.77,3.6,34,In Stock,OfficialStore,2024-08-29,https://example-shop.com/product/WSP0012
+WSP0013,Classic Portable Charger,Toys,1101.89,30,771.32,3.9,33,Limited Stock,QuickMart,2024-10-16,https://example-shop.com/product/WSP0013
+WSP0014,Eco Portable Headphones,Toys,135.57,10,122.01,4.1,39,Limited Stock,TopSeller,2024-10-18,https://example-shop.com/product/WSP0014
+WSP0015,Premium Wireless Headphones,Beauty,1176.47,25,882.35,3.9,41,Limited Stock,ShopPlus,2025-06-13,https://example-shop.com/product/WSP0015
+WSP0016,Eco Bluetooth Headphones,Electronics,1238.44,15,1052.67,4.0,111,Limited Stock,OfficialStore,2025-07-06,https://example-shop.com/product/WSP0016
+WSP0017,Eco Portable Charger,Toys,423.84,15,360.26,3.5,40,Limited Stock,TopSeller,2024-11-13,https://example-shop.com/product/WSP0017
+WSP0018,Classic Wireless Headphones,Sports,700.37,15,595.31,2.8,48,In Stock,ShopPlus,2024-08-14,https://example-shop.com/product/WSP0018
+WSP0019,Eco Portable Charger,Fashion,890.81,25,668.11,3.6,46,Out of Stock,OfficialStore,2025-01-02,https://example-shop.com/product/WSP0019
+WSP0020,Ultra Deluxe Backpack,Electronics,1622.96,30,1136.07,3.5,132,Limited Stock,OfficialStore,2025-05-20,https://example-shop.com/product/WSP0020
+WSP0021,Smart Bluetooth Charger,Toys,561.35,20,449.08,5.0,40,In Stock,OfficialStore,2024-08-23,https://example-shop.com/product/WSP0021
+WSP0022,Pro Deluxe Watch,Home,531.01,20,424.81,4.1,118,Limited Stock,ShopPlus,2025-07-06,https://example-shop.com/product/WSP0022
+WSP0023,Ultra Compact Watch,Home,363.15,30,254.2,4.1,126,Limited Stock,DealsHub,2025-01-20,https://example-shop.com/product/WSP0023
+WSP0024,Smart Bluetooth Headphones,Toys,148.66,5,141.23,5.0,31,In Stock,ShopPlus,2025-04-24,https://example-shop.com/product/WSP0024
+WSP0025,Pro Wireless Lamp,Toys,862.85,15,733.42,3.9,42,Limited Stock,ShopPlus,2024-08-16,https://example-shop.com/product/WSP0025
+WSP0026,Eco Portable Charger,Sports,557.01,10,501.31,3.6,35,In Stock,QuickMart,2024-11-04,https://example-shop.com/product/WSP0026
+WSP0027,Classic Bluetooth Speaker,Electronics,1558.33,5,1480.41,4.4,132,Limited Stock,QuickMart,2025-07-24,https://example-shop.com/product/WSP0027
+WSP0028,Classic Portable Headphones,Sports,929.74,30,650.82,3.5,36,Out of Stock,OfficialStore,2024-09-19,https://example-shop.com/product/WSP0028
+WSP0029,Classic Compact Speaker,Home,439.73,25,329.8,3.4,140,In Stock,QuickMart,2024-09-24,https://example-shop.com/product/WSP0029
+WSP0030,Smart Portable Speaker,Toys,1232.02,20,985.62,4.4,62,Limited Stock,QuickMart,2025-06-06,https://example-shop.com/product/WSP0030
+WSP0031,Eco Portable Charger,Beauty,994.92,25,746.19,4.4,43,In Stock,OfficialStore,2025-02-12,https://example-shop.com/product/WSP0031
+WSP0032,Pro Portable Headphones,Home,749.93,0,749.93,4.5,92,Out of Stock,ShopPlus,2024-09-11,https://example-shop.com/product/WSP0032
+WSP0033,Eco Wireless Mixer,Automotive,1016.36,25,762.27,4.3,39,Limited Stock,DealsHub,2024-09-13,https://example-shop.com/product/WSP0033
+WSP0034,Pro Compact Backpack,Fashion,376.62,30,263.63,2.3,52,In Stock,DealsHub,2025-04-23,https://example-shop.com/product/WSP0034
+WSP0035,Smart Bluetooth Backpack,Fashion,904.83,30,633.38,2.6,37,Limited Stock,DealsHub,2025-05-26,https://example-shop.com/product/WSP0035
+WSP0036,Classic Deluxe Charger,Beauty,1347.88,15,1145.7,3.1,43,In Stock,OfficialStore,2024-12-03,https://example-shop.com/product/WSP0036
+WSP0037,Ultra Bluetooth Lamp,Home,439.76,5,417.77,3.3,105,In Stock,ShopPlus,2024-12-05,https://example-shop.com/product/WSP0037
+WSP0038,Classic Portable Speaker,Sports,840.99,5,798.94,3.5,39,Out of Stock,TopSeller,2025-01-24,https://example-shop.com/product/WSP0038
+WSP0039,Eco Bluetooth Speaker,Sports,890.67,0,890.67,3.5,47,In Stock,DealsHub,2025-04-10,https://example-shop.com/product/WSP0039
+WSP0040,Pro Deluxe Speaker,Beauty,1269.38,20,1015.5,3.6,49,Limited Stock,TopSeller,2025-08-07,https://example-shop.com/product/WSP0040
+WSP0041,Premium Deluxe Watch,Toys,257.23,0,257.23,3.9,39,In Stock,OfficialStore,2024-09-18,https://example-shop.com/product/WSP0041
+WSP0042,Classic Bluetooth Lamp,Electronics,1148.69,10,1033.82,4.1,129,In Stock,TopSeller,2024-09-26,https://example-shop.com/product/WSP0042
+WSP0043,Premium Wireless Lamp,Toys,602.01,20,481.61,3.5,33,In Stock,QuickMart,2024-08-16,https://example-shop.com/product/WSP0043
+WSP0044,Classic Bluetooth Watch,Electronics,1959.87,15,1665.89,4.2,122,Limited Stock,TopSeller,2025-03-09,https://example-shop.com/product/WSP0044
+WSP0045,Ultra Bluetooth Headphones,Fashion,337.15,20,269.72,3.0,42,In Stock,QuickMart,2024-09-26,https://example-shop.com/product/WSP0045
+WSP0046,Premium Wireless Lamp,Toys,1275.44,0,1275.44,4.9,45,In Stock,ShopPlus,2025-03-15,https://example-shop.com/product/WSP0046
+WSP0047,Eco Deluxe Headphones,Electronics,1267.99,5,1204.59,3.3,105,In Stock,OfficialStore,2025-04-19,https://example-shop.com/product/WSP0047
+WSP0048,Ultra Bluetooth Charger,Beauty,1140.03,10,1026.03,4.1,33,Limited Stock,TopSeller,2024-08-28,https://example-shop.com/product/WSP0048
+WSP0049,Pro Wireless Watch,Beauty,929.27,0,929.27,4.6,42,In Stock,TopSeller,2025-06-22,https://example-shop.com/product/WSP0049
+WSP0050,Smart Wireless Backpack,Fashion,1138.32,0,1138.32,4.1,27,Out of Stock,QuickMart,2025-07-01,https://example-shop.com/product/WSP0050
+WSP0051,Eco Bluetooth Headphones,Electronics,1315.53,20,1052.42,4.5,124,Out of Stock,QuickMart,2024-10-10,https://example-shop.com/product/WSP0051
+WSP0052,Pro Deluxe Headphones,Home,322.19,25,241.64,4.2,127,Limited Stock,QuickMart,2024-09-28,https://example-shop.com/product/WSP0052
+WSP0053,Smart Portable Speaker,Automotive,786.43,15,668.47,2.8,50,Out of Stock,QuickMart,2025-03-31,https://example-shop.com/product/WSP0053
+WSP0054,Pro Wireless Lamp,Automotive,968.28,30,677.8,3.5,40,In Stock,TopSeller,2024-09-12,https://example-shop.com/product/WSP0054
+WSP0055,Smart Bluetooth Watch,Home,958.17,25,718.63,3.4,111,Out of Stock,DealsHub,2025-07-10,https://example-shop.com/product/WSP0055
+WSP0056,Eco Deluxe Mixer,Electronics,1842.68,5,1750.55,5.0,129,Out of Stock,OfficialStore,2025-03-01,https://example-shop.com/product/WSP0056
+WSP0057,Classic Deluxe Charger,Home,67.87,15,57.69,3.3,113,Out of Stock,DealsHub,2024-12-10,https://example-shop.com/product/WSP0057
+WSP0058,Ultra Compact Lamp,Sports,166.56,10,149.9,4.0,51,Limited Stock,TopSeller,2024-09-13,https://example-shop.com/product/WSP0058
+WSP0059,Ultra Deluxe Backpack,Home,1076.19,20,860.95,4.2,118,Out of Stock,ShopPlus,2024-12-04,https://example-shop.com/product/WSP0059
+WSP0060,Eco Bluetooth Watch,Toys,325.2,20,260.16,4.4,33,In Stock,DealsHub,2024-11-17,https://example-shop.com/product/WSP0060
+WSP0061,Pro Bluetooth Mixer,Toys,728.83,5,692.39,3.3,46,In Stock,QuickMart,2025-08-12,https://example-shop.com/product/WSP0061
+WSP0062,Premium Portable Backpack,Home,939.34,5,892.37,3.5,109,Out of Stock,OfficialStore,2025-07-14,https://example-shop.com/product/WSP0062
+WSP0063,Smart Bluetooth Charger,Fashion,604.92,5,574.67,4.4,43,Out of Stock,ShopPlus,2025-01-10,https://example-shop.com/product/WSP0063
+WSP0064,Classic Bluetooth Speaker,Home,1272.05,5,1208.45,4.7,124,Limited Stock,OfficialStore,2024-08-22,https://example-shop.com/product/WSP0064
+WSP0065,Classic Deluxe Mixer,Sports,778.76,25,584.07,3.5,49,In Stock,DealsHub,2025-02-04,https://example-shop.com/product/WSP0065
+WSP0066,Pro Wireless Mixer,Electronics,1700.33,0,1700.33,3.5,111,Limited Stock,DealsHub,2024-10-13,https://example-shop.com/product/WSP0066
+WSP0067,Classic Wireless Headphones,Automotive,886.67,5,842.34,3.6,50,Out of Stock,OfficialStore,2025-04-10,https://example-shop.com/product/WSP0067
+WSP0068,Premium Compact Lamp,Electronics,1083.92,5,1029.72,5.0,118,Out of Stock,TopSeller,2024-12-16,https://example-shop.com/product/WSP0068
+WSP0069,Classic Compact Mixer,Sports,948.08,15,805.87,4.2,35,Out of Stock,DealsHub,2025-02-22,https://example-shop.com/product/WSP0069
+WSP0070,Pro Wireless Charger,Beauty,964.22,5,916.01,3.7,42,In Stock,OfficialStore,2024-09-19,https://example-shop.com/product/WSP0070
+WSP0071,Eco Bluetooth Backpack,Electronics,1849.13,0,1849.13,3.4,124,In Stock,DealsHub,2025-01-09,https://example-shop.com/product/WSP0071
+WSP0072,Ultra Compact Mixer,Sports,584.94,20,467.95,4.2,43,Out of Stock,ShopPlus,2025-03-10,https://example-shop.com/product/WSP0072
+WSP0073,Classic Deluxe Headphones,Sports,441.47,0,441.47,3.9,35,Out of Stock,ShopPlus,2025-02-01,https://example-shop.com/product/WSP0073
+WSP0074,Pro Bluetooth Watch,Home,1140.99,0,1140.99,3.3,120,Limited Stock,TopSeller,2025-01-25,https://example-shop.com/product/WSP0074
+WSP0075,Pro Compact Backpack,Home,561.44,30,393.01,3.8,112,In Stock,DealsHub,2024-12-12,https://example-shop.com/product/WSP0075
+WSP0076,Pro Deluxe Lamp,Fashion,500.26,5,475.25,3.7,42,Out of Stock,OfficialStore,2025-02-04,https://example-shop.com/product/WSP0076
+WSP0077,Ultra Bluetooth Charger,Sports,573.44,0,573.44,4.3,28,In Stock,OfficialStore,2025-02-09,https://example-shop.com/product/WSP0077
+WSP0078,Smart Wireless Headphones,Toys,883.79,5,839.6,3.2,52,Out of Stock,ShopPlus,2025-06-20,https://example-shop.com/product/WSP0078
+WSP0079,Classic Compact Speaker,Electronics,1424.7,5,1353.46,4.7,127,Out of Stock,ShopPlus,2025-05-02,https://example-shop.com/product/WSP0079
+WSP0080,Premium Bluetooth Charger,Sports,616.14,20,492.91,3.2,43,In Stock,ShopPlus,2025-07-22,https://example-shop.com/product/WSP0080
+WSP0081,Ultra Wireless Speaker,Toys,1018.31,0,1018.31,2.5,47,Out of Stock,QuickMart,2025-08-09,https://example-shop.com/product/WSP0081
+WSP0082,Smart Deluxe Backpack,Fashion,968.71,10,871.84,4.6,49,In Stock,DealsHub,2025-02-12,https://example-shop.com/product/WSP0082
+WSP0083,Pro Wireless Charger,Home,1454.03,25,1090.52,4.8,117,Out of Stock,ShopPlus,2025-06-23,https://example-shop.com/product/WSP0083
+WSP0084,Classic Wireless Backpack,Toys,661.93,15,562.64,4.1,34,Out of Stock,ShopPlus,2025-07-25,https://example-shop.com/product/WSP0084
+WSP0085,Classic Bluetooth Mixer,Fashion,827.14,0,827.14,2.6,38,Out of Stock,OfficialStore,2025-04-17,https://example-shop.com/product/WSP0085
+WSP0086,Pro Bluetooth Lamp,Home,822.35,5,781.23,3.8,119,Limited Stock,ShopPlus,2024-11-22,https://example-shop.com/product/WSP0086
+WSP0087,Eco Compact Lamp,Sports,793.36,15,674.36,3.7,44,Out of Stock,TopSeller,2025-02-21,https://example-shop.com/product/WSP0087
+WSP0088,Smart Compact Lamp,Fashion,445.07,0,445.07,4.3,46,Out of Stock,DealsHub,2025-04-13,https://example-shop.com/product/WSP0088
+WSP0089,Eco Compact Speaker,Home,533.12,20,426.5,3.6,124,In Stock,DealsHub,2025-06-25,https://example-shop.com/product/WSP0089
+WSP0090,Premium Bluetooth Lamp,Automotive,182.03,20,145.62,3.5,48,Out of Stock,OfficialStore,2024-12-01,https://example-shop.com/product/WSP0090
+WSP0091,Ultra Portable Headphones,Electronics,1228.31,5,1166.89,2.3,110,Out of Stock,OfficialStore,2025-03-23,https://example-shop.com/product/WSP0091
+WSP0092,Smart Portable Speaker,Toys,6.94,5,6.59,2.1,41,In Stock,DealsHub,2025-04-03,https://example-shop.com/product/WSP0092
+WSP0093,Smart Deluxe Mixer,Beauty,709.74,0,709.74,4.6,44,In Stock,ShopPlus,2024-12-07,https://example-shop.com/product/WSP0093
+WSP0094,Smart Portable Watch,Electronics,942.91,30,660.04,4.0,119,Out of Stock,ShopPlus,2024-08-30,https://example-shop.com/product/WSP0094
+WSP0095,Ultra Portable Backpack,Home,700.55,10,630.5,4.4,145,Limited Stock,QuickMart,2025-07-02,https://example-shop.com/product/WSP0095
+WSP0096,Ultra Compact Watch,Sports,1081.38,25,811.04,5.0,32,Out of Stock,OfficialStore,2024-09-30,https://example-shop.com/product/WSP0096
+WSP0097,Premium Bluetooth Mixer,Sports,898.43,0,898.43,3.3,39,Limited Stock,TopSeller,2025-06-21,https://example-shop.com/product/WSP0097
+WSP0098,Ultra Bluetooth Backpack,Fashion,573.77,30,401.64,3.5,38,Out of Stock,OfficialStore,2025-04-21,https://example-shop.com/product/WSP0098
+WSP0099,Ultra Wireless Charger,Beauty,543.33,15,461.83,4.8,40,Out of Stock,ShopPlus,2024-12-18,https://example-shop.com/product/WSP0099
+WSP0100,Premium Bluetooth Mixer,Electronics,1760.92,15,1496.78,3.0,108,In Stock,DealsHub,2025-05-03,https://example-shop.com/product/WSP0100
+WSP0101,Smart Wireless Charger,Beauty,1129.11,20,903.29,3.2,46,Out of Stock,DealsHub,2025-04-27,https://example-shop.com/product/WSP0101
+WSP0102,Pro Deluxe Speaker,Sports,1144.57,15,972.88,4.0,29,Out of Stock,OfficialStore,2024-11-07,https://example-shop.com/product/WSP0102
+WSP0103,Ultra Bluetooth Mixer,Home,1388.41,10,1249.57,3.6,126,In Stock,ShopPlus,2025-07-28,https://example-shop.com/product/WSP0103
+WSP0104,Ultra Wireless Lamp,Toys,481.55,30,337.08,3.2,38,Out of Stock,DealsHub,2024-12-14,https://example-shop.com/product/WSP0104
+WSP0105,Premium Bluetooth Lamp,Home,766.91,30,536.84,4.1,115,In Stock,DealsHub,2025-03-28,https://example-shop.com/product/WSP0105
+WSP0106,Pro Bluetooth Speaker,Fashion,1180.52,0,1180.52,4.1,32,In Stock,QuickMart,2025-01-18,https://example-shop.com/product/WSP0106
+WSP0107,Smart Deluxe Lamp,Electronics,1704.06,20,1363.25,4.8,114,Out of Stock,TopSeller,2024-09-05,https://example-shop.com/product/WSP0107
+WSP0108,Classic Wireless Speaker,Fashion,1066.51,10,959.86,4.1,38,Out of Stock,QuickMart,2025-05-21,https://example-shop.com/product/WSP0108
+WSP0109,Smart Deluxe Watch,Home,1362.77,20,1090.22,3.7,119,Out of Stock,TopSeller,2024-08-22,https://example-shop.com/product/WSP0109
+WSP0110,Smart Compact Watch,Beauty,556.66,20,445.33,4.2,26,In Stock,ShopPlus,2025-05-04,https://example-shop.com/product/WSP0110
+WSP0111,Pro Compact Backpack,Electronics,2455.35,10,2209.82,4.7,125,In Stock,QuickMart,2025-08-06,https://example-shop.com/product/WSP0111
+WSP0112,Ultra Bluetooth Watch,Home,1089.13,0,1089.13,4.1,125,Out of Stock,DealsHub,2025-04-01,https://example-shop.com/product/WSP0112
+WSP0113,Pro Wireless Watch,Toys,810.48,25,607.86,3.6,39,In Stock,DealsHub,2024-09-20,https://example-shop.com/product/WSP0113
+WSP0114,Premium Wireless Headphones,Toys,884.24,5,840.03,3.5,40,Limited Stock,DealsHub,2024-08-22,https://example-shop.com/product/WSP0114
+WSP0115,Classic Compact Watch,Toys,324.41,10,291.97,3.8,43,In Stock,TopSeller,2025-05-08,https://example-shop.com/product/WSP0115
+WSP0116,Eco Wireless Charger,Sports,916.38,0,916.38,4.4,40,Out of Stock,QuickMart,2025-03-09,https://example-shop.com/product/WSP0116
+WSP0117,Premium Deluxe Mixer,Toys,253.99,15,215.89,4.2,46,Out of Stock,DealsHub,2025-02-14,https://example-shop.com/product/WSP0117
+WSP0118,Eco Deluxe Backpack,Fashion,800.65,0,800.65,4.0,39,Out of Stock,TopSeller,2024-12-22,https://example-shop.com/product/WSP0118
+WSP0119,Smart Bluetooth Backpack,Beauty,855.46,5,812.69,3.1,41,Limited Stock,ShopPlus,2025-01-02,https://example-shop.com/product/WSP0119
+WSP0120,Smart Deluxe Mixer,Beauty,1241.57,25,931.18,3.6,48,Out of Stock,ShopPlus,2025-06-24,https://example-shop.com/product/WSP0120
+WSP0121,Premium Wireless Mixer,Electronics,1405.63,20,1124.5,3.8,135,In Stock,DealsHub,2025-06-21,https://example-shop.com/product/WSP0121
+WSP0122,Pro Compact Backpack,Beauty,586.1,25,439.58,4.0,42,In Stock,DealsHub,2024-11-29,https://example-shop.com/product/WSP0122
+WSP0123,Premium Portable Lamp,Toys,533.83,5,507.14,4.2,43,Out of Stock,TopSeller,2024-12-24,https://example-shop.com/product/WSP0123
+WSP0124,Ultra Wireless Headphones,Toys,1068.78,0,1068.78,4.0,42,Out of Stock,QuickMart,2024-12-19,https://example-shop.com/product/WSP0124
+WSP0125,Pro Deluxe Speaker,Beauty,326.78,30,228.75,3.6,44,Out of Stock,TopSeller,2024-11-27,https://example-shop.com/product/WSP0125
+WSP0126,Smart Portable Charger,Fashion,806.07,25,604.55,3.2,40,Out of Stock,TopSeller,2025-08-11,https://example-shop.com/product/WSP0126
+WSP0127,Premium Wireless Speaker,Beauty,128.13,30,89.69,4.3,47,In Stock,QuickMart,2024-11-21,https://example-shop.com/product/WSP0127
+WSP0128,Pro Compact Charger,Automotive,361.89,5,343.8,1.9,47,Out of Stock,ShopPlus,2025-01-05,https://example-shop.com/product/WSP0128
+WSP0129,Eco Deluxe Headphones,Home,123.73,25,92.8,3.4,120,Limited Stock,DealsHub,2025-07-18,https://example-shop.com/product/WSP0129
+WSP0130,Eco Deluxe Headphones,Automotive,1092.38,15,928.52,3.4,40,Limited Stock,TopSeller,2025-01-19,https://example-shop.com/product/WSP0130
+WSP0131,Eco Bluetooth Watch,Fashion,693.76,0,693.76,3.6,54,In Stock,TopSeller,2024-11-28,https://example-shop.com/product/WSP0131
+WSP0132,Pro Compact Lamp,Electronics,1439.95,30,1007.96,3.2,114,Out of Stock,QuickMart,2024-11-03,https://example-shop.com/product/WSP0132
+WSP0133,Smart Bluetooth Speaker,Home,994.47,0,994.47,2.8,122,In Stock,DealsHub,2025-08-08,https://example-shop.com/product/WSP0133
+WSP0134,Eco Bluetooth Speaker,Sports,1002.81,25,752.11,3.8,38,Limited Stock,ShopPlus,2025-07-04,https://example-shop.com/product/WSP0134
+WSP0135,Ultra Wireless Mixer,Toys,694.9,5,660.15,2.8,45,Limited Stock,DealsHub,2024-09-23,https://example-shop.com/product/WSP0135
+WSP0136,Smart Bluetooth Headphones,Sports,1370.92,5,1302.37,3.5,37,Limited Stock,QuickMart,2025-05-06,https://example-shop.com/product/WSP0136
+WSP0137,Classic Deluxe Lamp,Toys,1063.78,25,797.84,3.3,34,Out of Stock,OfficialStore,2025-03-26,https://example-shop.com/product/WSP0137
+WSP0138,Classic Wireless Mixer,Electronics,2028.17,30,1419.72,3.5,114,Limited Stock,OfficialStore,2025-06-18,https://example-shop.com/product/WSP0138
+WSP0139,Eco Wireless Speaker,Beauty,736.68,10,663.01,3.7,40,In Stock,QuickMart,2025-05-13,https://example-shop.com/product/WSP0139
+WSP0140,Premium Deluxe Lamp,Electronics,1474.94,30,1032.46,4.1,139,Out of Stock,TopSeller,2025-01-25,https://example-shop.com/product/WSP0140
+WSP0141,Ultra Wireless Watch,Electronics,1869.4,15,1588.99,3.4,112,In Stock,OfficialStore,2025-04-28,https://example-shop.com/product/WSP0141
+WSP0142,Ultra Deluxe Charger,Sports,1035.14,15,879.87,4.2,40,Limited Stock,TopSeller,2025-05-13,https://example-shop.com/product/WSP0142
+WSP0143,Premium Bluetooth Mixer,Fashion,612.6,25,459.45,3.3,38,Limited Stock,ShopPlus,2025-07-28,https://example-shop.com/product/WSP0143
+WSP0144,Smart Portable Watch,Electronics,1177.45,20,941.96,4.0,117,Limited Stock,ShopPlus,2025-08-11,https://example-shop.com/product/WSP0144
+WSP0145,Eco Portable Speaker,Home,1266.55,20,1013.24,4.3,119,In Stock,OfficialStore,2024-11-12,https://example-shop.com/product/WSP0145
+WSP0146,Eco Compact Lamp,Electronics,1275.26,5,1211.5,4.3,120,In Stock,QuickMart,2025-06-16,https://example-shop.com/product/WSP0146
+WSP0147,Premium Portable Headphones,Home,1012.41,0,1012.41,4.1,122,In Stock,TopSeller,2025-03-29,https://example-shop.com/product/WSP0147
+WSP0148,Ultra Bluetooth Speaker,Fashion,1148.3,25,861.22,4.4,32,Out of Stock,ShopPlus,2024-09-14,https://example-shop.com/product/WSP0148
+WSP0149,Ultra Deluxe Watch,Fashion,609.68,15,518.23,3.3,35,Limited Stock,TopSeller,2025-04-07,https://example-shop.com/product/WSP0149
+WSP0150,Classic Portable Watch,Home,769.65,20,615.72,3.0,117,In Stock,ShopPlus,2025-03-07,https://example-shop.com/product/WSP0150
+WSP0151,Classic Deluxe Watch,Home,858.77,15,729.95,3.7,120,Out of Stock,ShopPlus,2025-03-27,https://example-shop.com/product/WSP0151
+WSP0152,Smart Compact Speaker,Automotive,302.18,15,256.85,3.9,34,Limited Stock,DealsHub,2025-05-03,https://example-shop.com/product/WSP0152
+WSP0153,Smart Portable Mixer,Toys,263.97,15,224.37,4.1,46,In Stock,TopSeller,2025-07-27,https://example-shop.com/product/WSP0153
+WSP0154,Smart Compact Watch,Toys,1197.51,20,958.01,4.6,44,Out of Stock,ShopPlus,2025-02-14,https://example-shop.com/product/WSP0154
+WSP0155,Premium Wireless Headphones,Beauty,1052.98,15,895.03,3.5,34,Out of Stock,TopSeller,2025-02-11,https://example-shop.com/product/WSP0155
+WSP0156,Premium Bluetooth Mixer,Home,491.29,10,442.16,5.0,139,Out of Stock,TopSeller,2025-03-06,https://example-shop.com/product/WSP0156
+WSP0157,Premium Portable Mixer,Electronics,1171.17,25,878.38,3.3,117,In Stock,QuickMart,2025-04-26,https://example-shop.com/product/WSP0157
+WSP0158,Eco Portable Headphones,Beauty,374.31,0,374.31,3.8,38,Limited Stock,DealsHub,2025-03-21,https://example-shop.com/product/WSP0158
+WSP0159,Classic Compact Headphones,Toys,1068.36,20,854.69,4.2,32,In Stock,QuickMart,2024-10-06,https://example-shop.com/product/WSP0159
+WSP0160,Pro Wireless Backpack,Automotive,389.04,15,330.68,3.6,46,Limited Stock,DealsHub,2025-03-04,https://example-shop.com/product/WSP0160
+WSP0161,Smart Bluetooth Headphones,Automotive,601.39,30,420.97,3.1,31,In Stock,DealsHub,2024-12-01,https://example-shop.com/product/WSP0161
+WSP0162,Smart Deluxe Speaker,Electronics,1292.7,15,1098.8,4.8,122,In Stock,TopSeller,2024-10-10,https://example-shop.com/product/WSP0162
+WSP0163,Eco Deluxe Headphones,Fashion,291.23,0,291.23,3.9,38,Limited Stock,QuickMart,2025-08-04,https://example-shop.com/product/WSP0163
+WSP0164,Eco Wireless Watch,Sports,1340.45,5,1273.43,4.6,51,Out of Stock,DealsHub,2025-07-26,https://example-shop.com/product/WSP0164
+WSP0165,Eco Wireless Charger,Toys,1465.49,0,1465.49,4.0,45,Limited Stock,OfficialStore,2024-12-16,https://example-shop.com/product/WSP0165
+WSP0166,Ultra Portable Charger,Electronics,1678.96,30,1175.27,3.7,127,Out of Stock,QuickMart,2025-01-21,https://example-shop.com/product/WSP0166
+WSP0167,Eco Portable Watch,Electronics,983.78,0,983.78,3.9,115,Limited Stock,DealsHub,2025-03-14,https://example-shop.com/product/WSP0167
+WSP0168,Ultra Deluxe Lamp,Sports,1238.62,0,1238.62,2.5,42,Limited Stock,QuickMart,2024-10-01,https://example-shop.com/product/WSP0168
+WSP0169,Premium Bluetooth Speaker,Electronics,1316.09,5,1250.29,4.3,105,In Stock,OfficialStore,2025-03-01,https://example-shop.com/product/WSP0169
+WSP0170,Pro Deluxe Headphones,Automotive,801.26,0,801.26,4.5,36,In Stock,TopSeller,2025-02-06,https://example-shop.com/product/WSP0170
+WSP0171,Eco Wireless Mixer,Automotive,1034.9,10,931.41,3.7,28,In Stock,OfficialStore,2025-06-18,https://example-shop.com/product/WSP0171
+WSP0172,Smart Wireless Charger,Electronics,2199.25,25,1649.44,4.6,112,Out of Stock,ShopPlus,2025-01-31,https://example-shop.com/product/WSP0172
+WSP0173,Pro Bluetooth Headphones,Fashion,645.73,15,548.87,4.1,47,Limited Stock,OfficialStore,2025-06-10,https://example-shop.com/product/WSP0173
+WSP0174,Classic Compact Lamp,Fashion,1115.97,25,836.98,4.4,34,Out of Stock,DealsHub,2024-09-05,https://example-shop.com/product/WSP0174
+WSP0175,Eco Compact Headphones,Electronics,1421.72,15,1208.46,4.6,106,Limited Stock,DealsHub,2025-03-23,https://example-shop.com/product/WSP0175
+WSP0176,Pro Deluxe Headphones,Fashion,750.66,10,675.59,4.0,37,In Stock,QuickMart,2024-08-14,https://example-shop.com/product/WSP0176
+WSP0177,Smart Compact Lamp,Electronics,1124.21,25,843.16,4.7,130,In Stock,TopSeller,2024-08-23,https://example-shop.com/product/WSP0177
+WSP0178,Premium Deluxe Speaker,Electronics,2111.5,0,2111.5,4.0,116,In Stock,TopSeller,2024-12-17,https://example-shop.com/product/WSP0178
+WSP0179,Ultra Bluetooth Watch,Automotive,211.19,10,190.07,3.0,40,In Stock,TopSeller,2024-10-15,https://example-shop.com/product/WSP0179
+WSP0180,Eco Compact Lamp,Automotive,955.84,30,669.09,2.5,43,Out of Stock,QuickMart,2024-08-16,https://example-shop.com/product/WSP0180
+WSP0181,Pro Bluetooth Lamp,Beauty,914.71,0,914.71,3.7,44,Limited Stock,TopSeller,2025-04-23,https://example-shop.com/product/WSP0181
+WSP0182,Ultra Deluxe Lamp,Fashion,711.58,20,569.26,3.8,42,Limited Stock,TopSeller,2025-01-21,https://example-shop.com/product/WSP0182
+WSP0183,Premium Portable Watch,Home,39.74,25,29.8,4.4,101,In Stock,QuickMart,2024-10-22,https://example-shop.com/product/WSP0183
+WSP0184,Premium Bluetooth Watch,Sports,754.08,25,565.56,4.1,39,In Stock,OfficialStore,2025-04-12,https://example-shop.com/product/WSP0184
+WSP0185,Ultra Bluetooth Charger,Electronics,1784.56,15,1516.88,5.0,111,In Stock,ShopPlus,2024-12-25,https://example-shop.com/product/WSP0185
+WSP0186,Smart Wireless Backpack,Fashion,630.5,10,567.45,3.5,39,In Stock,DealsHub,2025-04-27,https://example-shop.com/product/WSP0186
+WSP0187,Ultra Compact Watch,Home,1093.13,10,983.82,3.2,125,Limited Stock,OfficialStore,2024-12-31,https://example-shop.com/product/WSP0187
+WSP0188,Smart Wireless Speaker,Fashion,506.31,15,430.36,3.7,42,Limited Stock,DealsHub,2025-05-06,https://example-shop.com/product/WSP0188
+WSP0189,Classic Deluxe Headphones,Fashion,803.51,10,723.16,3.7,41,Limited Stock,ShopPlus,2024-10-06,https://example-shop.com/product/WSP0189
+WSP0190,Eco Deluxe Speaker,Beauty,862.13,0,862.13,4.0,28,Limited Stock,TopSeller,2025-06-18,https://example-shop.com/product/WSP0190
+WSP0191,Premium Wireless Speaker,Home,725.63,10,653.07,3.0,119,Limited Stock,TopSeller,2025-07-11,https://example-shop.com/product/WSP0191
+WSP0192,Premium Portable Headphones,Toys,387.21,25,290.41,3.5,40,Limited Stock,DealsHub,2025-01-25,https://example-shop.com/product/WSP0192
+WSP0193,Premium Bluetooth Mixer,Beauty,305.55,10,275.0,4.6,52,Limited Stock,DealsHub,2025-04-30,https://example-shop.com/product/WSP0193
+WSP0194,Classic Portable Mixer,Home,1092.4,25,819.3,4.3,123,Out of Stock,ShopPlus,2025-03-19,https://example-shop.com/product/WSP0194
+WSP0195,Premium Wireless Headphones,Sports,1674.04,25,1255.53,3.4,41,Limited Stock,ShopPlus,2024-12-12,https://example-shop.com/product/WSP0195
+WSP0196,Smart Bluetooth Headphones,Sports,999.64,25,749.73,2.8,30,Out of Stock,OfficialStore,2025-05-20,https://example-shop.com/product/WSP0196
+WSP0197,Smart Deluxe Headphones,Home,1131.22,25,848.41,4.6,120,In Stock,DealsHub,2025-01-06,https://example-shop.com/product/WSP0197
+WSP0198,Premium Bluetooth Charger,Fashion,1248.74,5,1186.3,3.7,43,In Stock,OfficialStore,2024-10-13,https://example-shop.com/product/WSP0198
+WSP0199,Ultra Compact Speaker,Fashion,936.66,30,655.66,3.6,37,Out of Stock,TopSeller,2024-12-15,https://example-shop.com/product/WSP0199
+WSP0200,Premium Wireless Backpack,Electronics,1783.74,10,1605.37,4.0,95,Limited Stock,TopSeller,2024-11-18,https://example-shop.com/product/WSP0200
+WSP0201,Classic Bluetooth Lamp,Toys,677.92,0,677.92,4.4,34,In Stock,QuickMart,2025-02-23,https://example-shop.com/product/WSP0201
+WSP0202,Ultra Portable Backpack,Beauty,1097.46,25,823.1,3.7,45,Out of Stock,DealsHub,2025-04-06,https://example-shop.com/product/WSP0202
+WSP0203,Ultra Wireless Lamp,Fashion,791.78,10,712.6,4.0,27,Out of Stock,QuickMart,2024-11-21,https://example-shop.com/product/WSP0203
+WSP0204,Pro Compact Watch,Automotive,328.43,10,295.59,3.7,35,In Stock,ShopPlus,2024-09-20,https://example-shop.com/product/WSP0204
+WSP0205,Classic Deluxe Lamp,Electronics,1580.34,25,1185.25,4.1,135,In Stock,TopSeller,2025-02-12,https://example-shop.com/product/WSP0205
+WSP0206,Premium Bluetooth Backpack,Beauty,933.78,25,700.34,4.7,41,Limited Stock,DealsHub,2025-02-10,https://example-shop.com/product/WSP0206
+WSP0207,Pro Wireless Headphones,Home,833.79,25,625.34,3.4,112,Out of Stock,OfficialStore,2025-03-26,https://example-shop.com/product/WSP0207
+WSP0208,Pro Compact Watch,Sports,1182.52,5,1123.39,5.0,28,Limited Stock,QuickMart,2024-08-31,https://example-shop.com/product/WSP0208
+WSP0209,Smart Deluxe Backpack,Fashion,71.7,10,64.53,3.4,50,Out of Stock,QuickMart,2025-05-08,https://example-shop.com/product/WSP0209
+WSP0210,Eco Compact Mixer,Electronics,943.22,30,660.25,5.0,92,Out of Stock,ShopPlus,2025-06-12,https://example-shop.com/product/WSP0210
+WSP0211,Ultra Compact Lamp,Beauty,1155.66,10,1040.09,3.1,54,Out of Stock,OfficialStore,2025-08-09,https://example-shop.com/product/WSP0211
+WSP0212,Pro Bluetooth Watch,Beauty,493.25,5,468.59,3.8,52,Limited Stock,ShopPlus,2025-03-18,https://example-shop.com/product/WSP0212
+WSP0213,Eco Bluetooth Charger,Toys,1211.51,10,1090.36,4.1,40,Out of Stock,OfficialStore,2025-03-16,https://example-shop.com/product/WSP0213
+WSP0214,Ultra Wireless Headphones,Electronics,1070.52,30,749.36,4.0,123,Out of Stock,ShopPlus,2025-06-11,https://example-shop.com/product/WSP0214
+WSP0215,Ultra Portable Speaker,Electronics,1484.04,10,1335.64,3.2,145,Out of Stock,OfficialStore,2025-07-19,https://example-shop.com/product/WSP0215
+WSP0216,Classic Portable Charger,Fashion,1469.35,25,1102.01,3.4,42,Limited Stock,ShopPlus,2025-05-26,https://example-shop.com/product/WSP0216
+WSP0217,Pro Portable Headphones,Electronics,947.76,5,900.37,3.7,151,Limited Stock,DealsHub,2024-10-18,https://example-shop.com/product/WSP0217
+WSP0218,Smart Bluetooth Speaker,Electronics,1396.95,10,1257.26,4.0,110,Out of Stock,TopSeller,2024-08-31,https://example-shop.com/product/WSP0218
+WSP0219,Ultra Deluxe Watch,Sports,690.51,10,621.46,3.8,48,In Stock,QuickMart,2024-10-12,https://example-shop.com/product/WSP0219
+WSP0220,Classic Compact Watch,Fashion,957.05,10,861.35,4.1,40,Limited Stock,ShopPlus,2025-06-03,https://example-shop.com/product/WSP0220
+WSP0221,Classic Portable Headphones,Sports,991.8,20,793.44,4.2,34,Out of Stock,TopSeller,2025-03-12,https://example-shop.com/product/WSP0221
+WSP0222,Premium Portable Backpack,Fashion,570.36,15,484.81,4.1,37,Limited Stock,ShopPlus,2025-05-12,https://example-shop.com/product/WSP0222
+WSP0223,Ultra Wireless Headphones,Beauty,1163.18,15,988.7,3.9,51,Limited Stock,QuickMart,2024-11-29,https://example-shop.com/product/WSP0223
+WSP0224,Pro Portable Watch,Sports,750.29,15,637.75,3.7,43,Out of Stock,DealsHub,2025-01-10,https://example-shop.com/product/WSP0224
+WSP0225,Ultra Wireless Backpack,Beauty,1710.33,30,1197.23,3.3,33,In Stock,DealsHub,2025-06-29,https://example-shop.com/product/WSP0225
+WSP0226,Classic Compact Charger,Automotive,452.29,20,361.83,3.8,41,In Stock,ShopPlus,2025-02-03,https://example-shop.com/product/WSP0226
+WSP0227,Eco Compact Backpack,Home,726.34,0,726.34,3.3,115,Out of Stock,DealsHub,2025-06-10,https://example-shop.com/product/WSP0227
+WSP0228,Pro Wireless Watch,Beauty,763.22,15,648.74,3.8,45,Limited Stock,OfficialStore,2025-07-01,https://example-shop.com/product/WSP0228
+WSP0229,Smart Wireless Charger,Electronics,1298.57,0,1298.57,3.9,111,Limited Stock,QuickMart,2024-10-28,https://example-shop.com/product/WSP0229
+WSP0230,Pro Portable Lamp,Beauty,923.96,0,923.96,3.0,32,In Stock,ShopPlus,2024-09-02,https://example-shop.com/product/WSP0230
+WSP0231,Pro Wireless Mixer,Toys,1019.87,20,815.9,4.9,38,In Stock,TopSeller,2024-10-30,https://example-shop.com/product/WSP0231
+WSP0232,Ultra Bluetooth Headphones,Sports,750.05,25,562.54,3.8,29,Limited Stock,TopSeller,2025-03-12,https://example-shop.com/product/WSP0232
+WSP0233,Smart Wireless Lamp,Sports,719.74,20,575.79,4.0,37,Out of Stock,TopSeller,2025-06-16,https://example-shop.com/product/WSP0233
+WSP0234,Premium Bluetooth Backpack,Electronics,1352.42,20,1081.94,4.1,125,In Stock,OfficialStore,2025-04-09,https://example-shop.com/product/WSP0234
+WSP0235,Premium Deluxe Speaker,Home,545.84,15,463.96,4.0,109,Limited Stock,DealsHub,2025-07-16,https://example-shop.com/product/WSP0235
+WSP0236,Smart Deluxe Watch,Electronics,761.37,30,532.96,3.7,116,In Stock,TopSeller,2024-11-07,https://example-shop.com/product/WSP0236
+WSP0237,Eco Deluxe Lamp,Fashion,461.43,20,369.14,4.4,31,Limited Stock,OfficialStore,2025-01-04,https://example-shop.com/product/WSP0237
+WSP0238,Pro Wireless Headphones,Home,859.78,30,601.85,4.5,121,In Stock,TopSeller,2025-05-18,https://example-shop.com/product/WSP0238
+WSP0239,Pro Compact Headphones,Toys,1263.94,15,1074.35,3.5,40,Out of Stock,QuickMart,2025-03-18,https://example-shop.com/product/WSP0239
+WSP0240,Premium Compact Watch,Sports,842.87,25,632.15,3.2,52,Out of Stock,QuickMart,2025-01-25,https://example-shop.com/product/WSP0240
+WSP0241,Pro Wireless Watch,Beauty,944.16,30,660.91,4.1,35,Out of Stock,DealsHub,2025-05-30,https://example-shop.com/product/WSP0241
+WSP0242,Smart Deluxe Speaker,Electronics,1616.39,15,1373.93,3.7,109,Limited Stock,OfficialStore,2024-10-20,https://example-shop.com/product/WSP0242
+WSP0243,Premium Compact Watch,Fashion,1513.91,10,1362.52,3.8,31,In Stock,TopSeller,2024-12-17,https://example-shop.com/product/WSP0243
+WSP0244,Ultra Portable Speaker,Sports,1974.26,10,1776.83,3.2,47,In Stock,ShopPlus,2024-11-29,https://example-shop.com/product/WSP0244
+WSP0245,Smart Compact Watch,Home,1040.09,0,1040.09,4.6,122,Limited Stock,TopSeller,2024-09-12,https://example-shop.com/product/WSP0245
+WSP0246,Smart Compact Charger,Home,377.59,25,283.19,3.8,125,Out of Stock,TopSeller,2025-03-24,https://example-shop.com/product/WSP0246
+WSP0247,Pro Portable Watch,Automotive,240.88,30,168.62,4.5,50,In Stock,DealsHub,2025-02-02,https://example-shop.com/product/WSP0247
+WSP0248,Eco Bluetooth Backpack,Beauty,759.2,20,607.36,3.3,45,Limited Stock,ShopPlus,2025-04-03,https://example-shop.com/product/WSP0248
+WSP0249,Pro Portable Backpack,Home,1188.82,10,1069.94,4.0,112,Limited Stock,ShopPlus,2024-10-01,https://example-shop.com/product/WSP0249
+WSP0250,Ultra Wireless Speaker,Automotive,1127.75,30,789.42,4.1,30,In Stock,TopSeller,2025-04-17,https://example-shop.com/product/WSP0250
+WSP0251,Pro Wireless Watch,Electronics,1113.69,15,946.64,3.7,111,Limited Stock,QuickMart,2025-04-17,https://example-shop.com/product/WSP0251
+WSP0252,Pro Bluetooth Speaker,Automotive,472.93,25,354.7,3.1,32,In Stock,DealsHub,2025-01-10,https://example-shop.com/product/WSP0252
+WSP0253,Premium Compact Charger,Electronics,849.2,0,849.2,5.0,115,In Stock,OfficialStore,2024-12-30,https://example-shop.com/product/WSP0253
+WSP0254,Smart Compact Mixer,Automotive,908.97,5,863.52,4.1,37,In Stock,QuickMart,2025-06-19,https://example-shop.com/product/WSP0254
+WSP0255,Ultra Deluxe Headphones,Sports,1236.84,20,989.47,3.5,35,Limited Stock,ShopPlus,2025-05-03,https://example-shop.com/product/WSP0255
+WSP0256,Smart Deluxe Watch,Home,265.66,10,239.09,4.4,122,Limited Stock,TopSeller,2025-05-02,https://example-shop.com/product/WSP0256
+WSP0257,Classic Deluxe Lamp,Sports,320.11,30,224.08,4.2,48,Limited Stock,TopSeller,2025-06-30,https://example-shop.com/product/WSP0257
+WSP0258,Premium Wireless Headphones,Toys,211.8,30,148.26,3.0,41,In Stock,TopSeller,2025-08-11,https://example-shop.com/product/WSP0258
+WSP0259,Ultra Compact Backpack,Fashion,543.57,10,489.21,4.2,43,In Stock,TopSeller,2024-08-29,https://example-shop.com/product/WSP0259
+WSP0260,Pro Compact Watch,Sports,1447.52,30,1013.26,4.0,43,In Stock,TopSeller,2024-10-25,https://example-shop.com/product/WSP0260
+WSP0261,Ultra Compact Charger,Automotive,557.94,20,446.35,4.3,41,Out of Stock,ShopPlus,2025-06-04,https://example-shop.com/product/WSP0261
+WSP0262,Premium Deluxe Watch,Automotive,201.54,15,171.31,3.2,39,Limited Stock,OfficialStore,2024-10-26,https://example-shop.com/product/WSP0262
+WSP0263,Classic Compact Charger,Electronics,1531.83,0,1531.83,4.5,125,In Stock,DealsHub,2025-04-17,https://example-shop.com/product/WSP0263
+WSP0264,Eco Compact Charger,Electronics,1416.53,5,1345.7,3.8,127,In Stock,QuickMart,2025-04-07,https://example-shop.com/product/WSP0264
+WSP0265,Pro Portable Speaker,Beauty,697.08,10,627.37,4.4,30,In Stock,OfficialStore,2024-11-13,https://example-shop.com/product/WSP0265
+WSP0266,Classic Compact Backpack,Toys,496.41,10,446.77,3.2,45,Limited Stock,DealsHub,2024-10-01,https://example-shop.com/product/WSP0266
+WSP0267,Eco Wireless Backpack,Electronics,1391.04,10,1251.94,4.7,123,Out of Stock,OfficialStore,2025-07-28,https://example-shop.com/product/WSP0267
+WSP0268,Ultra Portable Headphones,Fashion,537.32,30,376.12,3.6,39,Out of Stock,OfficialStore,2025-06-03,https://example-shop.com/product/WSP0268
+WSP0269,Eco Portable Lamp,Home,722.52,0,722.52,4.3,107,Limited Stock,TopSeller,2024-12-04,https://example-shop.com/product/WSP0269
+WSP0270,Eco Compact Mixer,Electronics,1933.68,10,1740.31,4.1,126,In Stock,OfficialStore,2025-01-12,https://example-shop.com/product/WSP0270
+WSP0271,Pro Compact Speaker,Toys,990.24,15,841.7,2.8,36,Limited Stock,TopSeller,2025-03-28,https://example-shop.com/product/WSP0271
+WSP0272,Premium Wireless Speaker,Sports,902.47,20,721.98,4.5,36,Out of Stock,TopSeller,2024-09-15,https://example-shop.com/product/WSP0272
+WSP0273,Ultra Deluxe Charger,Fashion,594.99,0,594.99,3.3,49,In Stock,OfficialStore,2025-07-31,https://example-shop.com/product/WSP0273
+WSP0274,Classic Compact Backpack,Automotive,378.47,25,283.85,4.1,39,Out of Stock,OfficialStore,2024-11-04,https://example-shop.com/product/WSP0274
+WSP0275,Premium Deluxe Lamp,Beauty,668.2,25,501.15,4.8,37,Out of Stock,TopSeller,2025-01-05,https://example-shop.com/product/WSP0275
+WSP0276,Ultra Compact Headphones,Sports,0.44,15,0.37,3.8,44,In Stock,OfficialStore,2024-10-02,https://example-shop.com/product/WSP0276
+WSP0277,Smart Bluetooth Charger,Fashion,867.03,0,867.03,4.5,47,Out of Stock,TopSeller,2025-04-17,https://example-shop.com/product/WSP0277
+WSP0278,Eco Wireless Headphones,Electronics,847.19,25,635.39,3.5,119,Out of Stock,ShopPlus,2024-10-27,https://example-shop.com/product/WSP0278
+WSP0279,Premium Bluetooth Lamp,Electronics,1481.5,0,1481.5,4.1,103,In Stock,OfficialStore,2025-06-10,https://example-shop.com/product/WSP0279
+WSP0280,Classic Portable Speaker,Beauty,723.9,10,651.51,2.9,39,Out of Stock,ShopPlus,2024-09-12,https://example-shop.com/product/WSP0280
+WSP0281,Smart Bluetooth Backpack,Home,604.45,15,513.78,5.0,115,Out of Stock,OfficialStore,2024-09-11,https://example-shop.com/product/WSP0281
+WSP0282,Premium Portable Backpack,Electronics,1061.51,15,902.28,4.0,134,In Stock,QuickMart,2025-04-23,https://example-shop.com/product/WSP0282
+WSP0283,Pro Portable Charger,Beauty,1828.8,10,1645.92,2.5,34,Limited Stock,TopSeller,2024-11-17,https://example-shop.com/product/WSP0283
+WSP0284,Smart Compact Backpack,Fashion,565.43,0,565.43,3.4,43,In Stock,QuickMart,2025-01-15,https://example-shop.com/product/WSP0284
+WSP0285,Eco Deluxe Charger,Sports,1136.92,5,1080.07,3.8,50,In Stock,TopSeller,2024-11-20,https://example-shop.com/product/WSP0285
+WSP0286,Smart Compact Headphones,Home,1340.41,10,1206.37,3.1,138,In Stock,TopSeller,2025-07-26,https://example-shop.com/product/WSP0286
+WSP0287,Pro Deluxe Mixer,Home,267.72,0,267.72,2.7,123,Out of Stock,OfficialStore,2024-12-01,https://example-shop.com/product/WSP0287
+WSP0288,Premium Portable Charger,Automotive,841.14,15,714.97,3.9,42,Limited Stock,QuickMart,2025-07-01,https://example-shop.com/product/WSP0288
+WSP0289,Smart Compact Watch,Electronics,1595.85,0,1595.85,4.4,147,Out of Stock,DealsHub,2025-01-29,https://example-shop.com/product/WSP0289
+WSP0290,Premium Bluetooth Headphones,Beauty,42.9,5,40.75,4.0,38,Out of Stock,DealsHub,2024-11-14,https://example-shop.com/product/WSP0290
+WSP0291,Pro Portable Speaker,Electronics,1713.75,30,1199.62,4.1,120,Limited Stock,QuickMart,2025-07-31,https://example-shop.com/product/WSP0291
+WSP0292,Smart Portable Lamp,Toys,187.39,5,178.02,4.5,48,Limited Stock,OfficialStore,2025-02-20,https://example-shop.com/product/WSP0292
+WSP0293,Eco Deluxe Lamp,Sports,589.39,30,412.57,3.5,45,Out of Stock,OfficialStore,2025-06-19,https://example-shop.com/product/WSP0293
+WSP0294,Ultra Portable Lamp,Toys,516.23,15,438.8,4.2,37,Limited Stock,DealsHub,2024-10-24,https://example-shop.com/product/WSP0294
+WSP0295,Eco Compact Charger,Sports,571.87,15,486.09,3.1,32,In Stock,DealsHub,2025-04-14,https://example-shop.com/product/WSP0295
+WSP0296,Premium Portable Lamp,Home,1170.39,10,1053.35,3.9,140,Limited Stock,OfficialStore,2025-04-08,https://example-shop.com/product/WSP0296
+WSP0297,Eco Portable Charger,Automotive,1185.56,15,1007.73,3.8,46,Limited Stock,OfficialStore,2024-10-02,https://example-shop.com/product/WSP0297
+WSP0298,Smart Portable Mixer,Fashion,491.52,30,344.06,2.7,35,Out of Stock,ShopPlus,2025-08-07,https://example-shop.com/product/WSP0298
+WSP0299,Smart Compact Mixer,Electronics,1542.82,30,1079.97,3.8,112,Out of Stock,QuickMart,2025-05-14,https://example-shop.com/product/WSP0299
+WSP0300,Ultra Wireless Watch,Beauty,1075.17,15,913.89,3.4,48,In Stock,OfficialStore,2025-02-11,https://example-shop.com/product/WSP0300
+WSP0301,Pro Compact Headphones,Beauty,936.73,0,936.73,3.8,34,Out of Stock,ShopPlus,2025-07-04,https://example-shop.com/product/WSP0301
+WSP0302,Eco Compact Charger,Fashion,459.75,15,390.79,3.5,38,In Stock,TopSeller,2025-04-03,https://example-shop.com/product/WSP0302
+WSP0303,Smart Portable Lamp,Automotive,260.09,5,247.09,4.9,52,Out of Stock,TopSeller,2024-09-25,https://example-shop.com/product/WSP0303
+WSP0304,Classic Compact Mixer,Home,927.99,5,881.59,3.2,124,In Stock,OfficialStore,2024-09-12,https://example-shop.com/product/WSP0304
+WSP0305,Classic Compact Lamp,Electronics,2181.84,20,1745.47,3.3,126,Out of Stock,QuickMart,2025-07-23,https://example-shop.com/product/WSP0305
+WSP0306,Pro Bluetooth Speaker,Toys,548.54,10,493.69,3.6,39,Limited Stock,QuickMart,2025-08-05,https://example-shop.com/product/WSP0306
+WSP0307,Smart Compact Mixer,Sports,785.36,20,628.29,4.2,36,In Stock,TopSeller,2025-02-15,https://example-shop.com/product/WSP0307
+WSP0308,Premium Compact Watch,Electronics,713.07,20,570.46,4.0,126,In Stock,OfficialStore,2025-04-14,https://example-shop.com/product/WSP0308
+WSP0309,Smart Compact Charger,Home,1406.18,15,1195.25,4.2,106,Limited Stock,OfficialStore,2024-09-19,https://example-shop.com/product/WSP0309
+WSP0310,Smart Bluetooth Speaker,Beauty,732.06,20,585.65,4.8,39,Out of Stock,QuickMart,2025-02-23,https://example-shop.com/product/WSP0310
+WSP0311,Pro Portable Watch,Beauty,607.07,20,485.66,4.5,41,Out of Stock,OfficialStore,2025-05-23,https://example-shop.com/product/WSP0311
+WSP0312,Premium Portable Headphones,Fashion,833.11,0,833.11,3.8,41,Limited Stock,OfficialStore,2024-10-06,https://example-shop.com/product/WSP0312
+WSP0313,Smart Compact Mixer,Home,853.67,20,682.94,4.3,113,Limited Stock,ShopPlus,2024-08-14,https://example-shop.com/product/WSP0313
+WSP0314,Classic Deluxe Lamp,Fashion,635.59,0,635.59,4.4,43,Limited Stock,TopSeller,2025-01-30,https://example-shop.com/product/WSP0314
+WSP0315,Pro Wireless Speaker,Automotive,972.34,20,777.87,3.0,27,In Stock,ShopPlus,2024-10-23,https://example-shop.com/product/WSP0315
+WSP0316,Eco Deluxe Backpack,Sports,77.75,0,77.75,4.8,45,Limited Stock,ShopPlus,2025-07-18,https://example-shop.com/product/WSP0316
+WSP0317,Ultra Compact Backpack,Toys,866.16,10,779.54,3.0,52,Out of Stock,QuickMart,2025-05-06,https://example-shop.com/product/WSP0317
+WSP0318,Eco Portable Headphones,Automotive,606.55,5,576.22,4.3,39,Out of Stock,QuickMart,2025-04-17,https://example-shop.com/product/WSP0318
+WSP0319,Smart Wireless Mixer,Beauty,709.16,15,602.79,3.7,52,In Stock,DealsHub,2025-02-09,https://example-shop.com/product/WSP0319
+WSP0320,Smart Compact Backpack,Electronics,1755.04,10,1579.54,4.2,115,In Stock,DealsHub,2024-10-08,https://example-shop.com/product/WSP0320
+WSP0321,Ultra Deluxe Headphones,Home,1001.83,30,701.28,4.4,115,Limited Stock,TopSeller,2024-11-11,https://example-shop.com/product/WSP0321
+WSP0322,Ultra Compact Mixer,Home,501.62,20,401.3,3.6,111,In Stock,QuickMart,2025-03-20,https://example-shop.com/product/WSP0322
+WSP0323,Smart Wireless Speaker,Fashion,457.46,15,388.84,3.4,40,Out of Stock,ShopPlus,2025-05-30,https://example-shop.com/product/WSP0323
+WSP0324,Ultra Bluetooth Headphones,Toys,728.3,0,728.3,3.7,37,Out of Stock,TopSeller,2025-06-13,https://example-shop.com/product/WSP0324
+WSP0325,Smart Compact Mixer,Beauty,1326.2,25,994.65,3.9,42,Out of Stock,OfficialStore,2025-06-10,https://example-shop.com/product/WSP0325
+WSP0326,Premium Deluxe Speaker,Automotive,377.74,5,358.85,3.6,43,Limited Stock,OfficialStore,2025-06-07,https://example-shop.com/product/WSP0326
+WSP0327,Eco Deluxe Watch,Toys,1475.68,5,1401.9,4.8,39,Out of Stock,DealsHub,2024-08-22,https://example-shop.com/product/WSP0327
+WSP0328,Classic Portable Speaker,Toys,653.9,30,457.73,2.8,41,Out of Stock,QuickMart,2024-10-15,https://example-shop.com/product/WSP0328
+WSP0329,Eco Wireless Mixer,Toys,603.22,0,603.22,4.6,43,In Stock,QuickMart,2024-12-27,https://example-shop.com/product/WSP0329
+WSP0330,Pro Deluxe Mixer,Beauty,730.95,10,657.86,4.2,44,Out of Stock,DealsHub,2024-08-20,https://example-shop.com/product/WSP0330
+WSP0331,Pro Bluetooth Mixer,Home,774.57,30,542.2,3.1,135,Limited Stock,ShopPlus,2025-07-02,https://example-shop.com/product/WSP0331
+WSP0332,Premium Compact Backpack,Home,788.31,25,591.23,4.5,120,Out of Stock,DealsHub,2025-01-31,https://example-shop.com/product/WSP0332
+WSP0333,Ultra Bluetooth Backpack,Fashion,550.2,20,440.16,4.2,53,Limited Stock,QuickMart,2025-06-25,https://example-shop.com/product/WSP0333
+WSP0334,Smart Deluxe Charger,Home,1235.08,20,988.06,4.4,106,In Stock,ShopPlus,2024-11-18,https://example-shop.com/product/WSP0334
+WSP0335,Eco Deluxe Charger,Toys,798.89,15,679.06,3.5,32,Out of Stock,QuickMart,2025-05-14,https://example-shop.com/product/WSP0335
+WSP0336,Premium Bluetooth Watch,Home,408.03,10,367.23,2.8,124,Limited Stock,ShopPlus,2024-10-02,https://example-shop.com/product/WSP0336
+WSP0337,Premium Portable Charger,Fashion,260.73,0,260.73,3.8,41,In Stock,QuickMart,2025-03-26,https://example-shop.com/product/WSP0337
+WSP0338,Ultra Bluetooth Headphones,Beauty,1457.42,10,1311.68,4.0,37,Out of Stock,ShopPlus,2025-06-20,https://example-shop.com/product/WSP0338
+WSP0339,Pro Portable Headphones,Home,542.26,5,515.15,2.4,125,In Stock,ShopPlus,2024-11-26,https://example-shop.com/product/WSP0339
+WSP0340,Classic Wireless Backpack,Automotive,1274.46,20,1019.57,4.7,36,In Stock,ShopPlus,2025-05-06,https://example-shop.com/product/WSP0340
+WSP0341,Ultra Wireless Charger,Electronics,1198.46,10,1078.61,4.2,115,In Stock,ShopPlus,2025-01-07,https://example-shop.com/product/WSP0341
+WSP0342,Ultra Compact Headphones,Sports,963.78,10,867.4,3.6,35,Out of Stock,OfficialStore,2024-08-17,https://example-shop.com/product/WSP0342
+WSP0343,Premium Deluxe Watch,Automotive,714.45,10,643.01,4.4,38,Out of Stock,OfficialStore,2025-06-04,https://example-shop.com/product/WSP0343
+WSP0344,Pro Wireless Charger,Fashion,1159.47,25,869.6,3.8,46,In Stock,TopSeller,2025-07-06,https://example-shop.com/product/WSP0344
+WSP0345,Classic Compact Charger,Fashion,1063.81,15,904.24,4.9,50,Out of Stock,ShopPlus,2024-09-03,https://example-shop.com/product/WSP0345
+WSP0346,Premium Portable Speaker,Automotive,1215.44,0,1215.44,3.9,38,Out of Stock,ShopPlus,2025-03-04,https://example-shop.com/product/WSP0346
+WSP0347,Eco Wireless Mixer,Home,732.65,0,732.65,3.8,114,Limited Stock,TopSeller,2025-06-04,https://example-shop.com/product/WSP0347
+WSP0348,Ultra Bluetooth Mixer,Toys,671.85,10,604.67,2.7,43,In Stock,DealsHub,2025-05-28,https://example-shop.com/product/WSP0348
+WSP0349,Classic Deluxe Charger,Beauty,1486.36,5,1412.04,3.7,48,In Stock,OfficialStore,2024-11-22,https://example-shop.com/product/WSP0349
+WSP0350,Pro Bluetooth Speaker,Automotive,475.64,0,475.64,4.0,53,Out of Stock,DealsHub,2024-11-01,https://example-shop.com/product/WSP0350
+WSP0351,Classic Bluetooth Speaker,Toys,503.8,25,377.85,4.3,52,Out of Stock,QuickMart,2024-10-03,https://example-shop.com/product/WSP0351
+WSP0352,Pro Compact Headphones,Beauty,486.96,10,438.26,4.2,39,Limited Stock,DealsHub,2024-11-15,https://example-shop.com/product/WSP0352
+WSP0353,Classic Portable Lamp,Sports,664.1,10,597.69,3.9,35,In Stock,DealsHub,2024-12-06,https://example-shop.com/product/WSP0353
+WSP0354,Pro Deluxe Backpack,Automotive,333.21,20,266.57,4.6,36,Out of Stock,DealsHub,2025-03-15,https://example-shop.com/product/WSP0354
+WSP0355,Classic Wireless Lamp,Electronics,1256.97,15,1068.42,4.9,124,Out of Stock,DealsHub,2025-02-28,https://example-shop.com/product/WSP0355
+WSP0356,Pro Deluxe Speaker,Home,729.56,15,620.13,4.0,134,In Stock,QuickMart,2024-09-09,https://example-shop.com/product/WSP0356
+WSP0357,Smart Deluxe Mixer,Electronics,1149.66,30,804.76,3.5,119,In Stock,DealsHub,2024-12-06,https://example-shop.com/product/WSP0357
+WSP0358,Ultra Bluetooth Speaker,Toys,1351.39,10,1216.25,3.4,30,Out of Stock,ShopPlus,2025-04-25,https://example-shop.com/product/WSP0358
+WSP0359,Ultra Wireless Backpack,Automotive,802.95,10,722.66,2.9,35,Out of Stock,QuickMart,2025-01-15,https://example-shop.com/product/WSP0359
+WSP0360,Ultra Deluxe Watch,Beauty,1077.57,0,1077.57,4.2,42,Out of Stock,QuickMart,2024-12-08,https://example-shop.com/product/WSP0360
+WSP0361,Classic Portable Mixer,Sports,1798.97,10,1619.07,3.8,41,In Stock,DealsHub,2025-01-16,https://example-shop.com/product/WSP0361
+WSP0362,Eco Bluetooth Backpack,Home,272.41,30,190.69,4.0,131,In Stock,OfficialStore,2024-10-03,https://example-shop.com/product/WSP0362
+WSP0363,Smart Bluetooth Backpack,Toys,943.9,0,943.9,3.5,37,Limited Stock,OfficialStore,2025-01-31,https://example-shop.com/product/WSP0363
+WSP0364,Pro Portable Charger,Electronics,1097.23,0,1097.23,4.0,141,Limited Stock,OfficialStore,2024-11-21,https://example-shop.com/product/WSP0364
+WSP0365,Smart Compact Headphones,Home,574.32,30,402.02,3.1,116,In Stock,ShopPlus,2025-01-23,https://example-shop.com/product/WSP0365
+WSP0366,Pro Bluetooth Charger,Automotive,292.75,10,263.48,3.7,35,In Stock,QuickMart,2025-01-14,https://example-shop.com/product/WSP0366
+WSP0367,Eco Bluetooth Speaker,Home,932.66,30,652.86,3.4,122,In Stock,OfficialStore,2024-11-17,https://example-shop.com/product/WSP0367
+WSP0368,Eco Deluxe Lamp,Electronics,1340.04,0,1340.04,3.6,134,Out of Stock,TopSeller,2025-03-22,https://example-shop.com/product/WSP0368
+WSP0369,Premium Bluetooth Mixer,Fashion,758.01,5,720.11,4.2,37,Limited Stock,OfficialStore,2025-03-27,https://example-shop.com/product/WSP0369
+WSP0370,Premium Deluxe Mixer,Sports,1189.49,5,1130.02,4.0,43,Out of Stock,QuickMart,2025-07-01,https://example-shop.com/product/WSP0370
+WSP0371,Premium Compact Mixer,Electronics,1534.81,30,1074.37,3.4,113,Limited Stock,DealsHub,2025-08-03,https://example-shop.com/product/WSP0371
+WSP0372,Pro Compact Backpack,Electronics,1842.69,0,1842.69,4.2,108,In Stock,ShopPlus,2025-01-25,https://example-shop.com/product/WSP0372
+WSP0373,Eco Portable Lamp,Home,980.2,15,833.17,3.8,114,Out of Stock,ShopPlus,2025-08-02,https://example-shop.com/product/WSP0373
+WSP0374,Smart Deluxe Headphones,Fashion,626.45,10,563.81,4.8,35,In Stock,ShopPlus,2024-12-15,https://example-shop.com/product/WSP0374
+WSP0375,Smart Deluxe Speaker,Beauty,620.82,15,527.7,3.1,40,In Stock,ShopPlus,2025-03-24,https://example-shop.com/product/WSP0375
+WSP0376,Smart Compact Backpack,Beauty,854.34,15,726.19,3.8,43,In Stock,OfficialStore,2024-12-02,https://example-shop.com/product/WSP0376
+WSP0377,Ultra Portable Lamp,Sports,1209.14,25,906.86,3.7,36,Limited Stock,OfficialStore,2024-12-25,https://example-shop.com/product/WSP0377
+WSP0378,Eco Wireless Watch,Home,1031.74,15,876.98,4.8,122,In Stock,QuickMart,2024-12-12,https://example-shop.com/product/WSP0378
+WSP0379,Premium Portable Charger,Toys,935.34,30,654.74,3.2,34,In Stock,OfficialStore,2025-06-26,https://example-shop.com/product/WSP0379
+WSP0380,Classic Bluetooth Lamp,Toys,92.38,20,73.9,4.0,44,Out of Stock,TopSeller,2025-07-02,https://example-shop.com/product/WSP0380
+WSP0381,Ultra Compact Lamp,Home,792.84,20,634.27,3.4,107,Out of Stock,ShopPlus,2025-04-16,https://example-shop.com/product/WSP0381
+WSP0382,Ultra Portable Watch,Electronics,2056.39,25,1542.29,3.2,106,Out of Stock,QuickMart,2025-05-28,https://example-shop.com/product/WSP0382
+WSP0383,Smart Compact Backpack,Electronics,1728.17,30,1209.72,3.8,132,Out of Stock,OfficialStore,2025-03-29,https://example-shop.com/product/WSP0383
+WSP0384,Classic Compact Lamp,Sports,811.77,20,649.42,4.1,36,Out of Stock,DealsHub,2025-03-06,https://example-shop.com/product/WSP0384
+WSP0385,Classic Portable Watch,Sports,842.88,15,716.45,3.6,39,Limited Stock,ShopPlus,2024-11-02,https://example-shop.com/product/WSP0385
+WSP0386,Pro Wireless Speaker,Automotive,882.03,25,661.52,2.8,40,Out of Stock,OfficialStore,2025-02-02,https://example-shop.com/product/WSP0386
+WSP0387,Premium Bluetooth Backpack,Home,1079.03,0,1079.03,3.5,109,Limited Stock,TopSeller,2025-05-04,https://example-shop.com/product/WSP0387
+WSP0388,Premium Wireless Watch,Beauty,980.83,5,931.79,3.6,53,Out of Stock,ShopPlus,2024-12-07,https://example-shop.com/product/WSP0388
+WSP0389,Pro Compact Watch,Home,306.98,0,306.98,3.6,95,Out of Stock,QuickMart,2025-06-14,https://example-shop.com/product/WSP0389
+WSP0390,Smart Portable Backpack,Beauty,982.93,20,786.34,5.0,53,Out of Stock,QuickMart,2024-10-29,https://example-shop.com/product/WSP0390
+WSP0391,Classic Bluetooth Charger,Sports,757.21,25,567.91,5.0,40,Limited Stock,TopSeller,2024-10-03,https://example-shop.com/product/WSP0391
+WSP0392,Smart Compact Backpack,Sports,149.78,15,127.31,2.3,37,Out of Stock,DealsHub,2025-04-28,https://example-shop.com/product/WSP0392
+WSP0393,Pro Bluetooth Headphones,Fashion,2039.32,25,1529.49,3.6,33,Limited Stock,DealsHub,2025-08-08,https://example-shop.com/product/WSP0393
+WSP0394,Ultra Bluetooth Headphones,Fashion,918.09,0,918.09,3.7,44,Out of Stock,OfficialStore,2025-03-07,https://example-shop.com/product/WSP0394
+WSP0395,Classic Bluetooth Mixer,Sports,1270.87,20,1016.7,3.9,40,In Stock,DealsHub,2025-02-25,https://example-shop.com/product/WSP0395
+WSP0396,Premium Compact Watch,Electronics,2581.21,5,2452.15,3.9,109,Limited Stock,OfficialStore,2025-02-15,https://example-shop.com/product/WSP0396
+WSP0397,Eco Bluetooth Charger,Sports,1241.29,0,1241.29,4.7,30,Limited Stock,TopSeller,2025-03-26,https://example-shop.com/product/WSP0397
+WSP0398,Ultra Compact Mixer,Fashion,174.12,10,156.71,4.2,42,Out of Stock,ShopPlus,2025-01-19,https://example-shop.com/product/WSP0398
+WSP0399,Eco Compact Mixer,Fashion,300.07,5,285.07,3.6,44,Limited Stock,OfficialStore,2024-10-14,https://example-shop.com/product/WSP0399
+WSP0400,Premium Bluetooth Charger,Home,561.24,10,505.12,3.0,125,In Stock,ShopPlus,2025-06-22,https://example-shop.com/product/WSP0400
+WSP0401,Eco Compact Mixer,Home,864.24,10,777.82,4.8,113,Out of Stock,ShopPlus,2024-10-14,https://example-shop.com/product/WSP0401
+WSP0402,Smart Compact Mixer,Toys,358.73,5,340.79,4.3,28,Out of Stock,TopSeller,2025-08-12,https://example-shop.com/product/WSP0402
+WSP0403,Classic Bluetooth Speaker,Automotive,38.13,5,36.22,4.7,37,Limited Stock,TopSeller,2025-05-21,https://example-shop.com/product/WSP0403
+WSP0404,Premium Portable Speaker,Beauty,943.34,5,896.17,3.1,39,In Stock,ShopPlus,2024-12-31,https://example-shop.com/product/WSP0404
+WSP0405,Pro Deluxe Charger,Beauty,1088.4,20,870.72,3.5,40,Out of Stock,OfficialStore,2025-04-12,https://example-shop.com/product/WSP0405
+WSP0406,Ultra Deluxe Lamp,Toys,431.42,25,323.56,3.5,29,Out of Stock,DealsHub,2025-02-13,https://example-shop.com/product/WSP0406
+WSP0407,Eco Portable Backpack,Fashion,1044.93,20,835.94,3.2,38,In Stock,TopSeller,2025-05-20,https://example-shop.com/product/WSP0407
+WSP0408,Smart Bluetooth Lamp,Sports,89.43,20,71.54,3.5,30,Out of Stock,DealsHub,2024-12-06,https://example-shop.com/product/WSP0408
+WSP0409,Smart Wireless Backpack,Sports,1297.36,25,973.02,4.5,36,Out of Stock,QuickMart,2025-05-14,https://example-shop.com/product/WSP0409
+WSP0410,Smart Deluxe Lamp,Electronics,1273.32,10,1145.99,3.6,110,Limited Stock,DealsHub,2025-04-26,https://example-shop.com/product/WSP0410
+WSP0411,Eco Bluetooth Watch,Toys,538.61,5,511.68,3.6,43,Out of Stock,OfficialStore,2025-05-05,https://example-shop.com/product/WSP0411
+WSP0412,Smart Compact Headphones,Beauty,944.15,20,755.32,3.3,37,In Stock,QuickMart,2025-02-26,https://example-shop.com/product/WSP0412
+WSP0413,Smart Portable Backpack,Electronics,852.88,20,682.3,4.2,125,In Stock,QuickMart,2025-07-27,https://example-shop.com/product/WSP0413
+WSP0414,Smart Deluxe Watch,Sports,161.47,25,121.1,4.6,35,In Stock,QuickMart,2025-03-26,https://example-shop.com/product/WSP0414
+WSP0415,Premium Compact Lamp,Sports,208.49,30,145.94,4.8,34,In Stock,DealsHub,2024-10-06,https://example-shop.com/product/WSP0415
+WSP0416,Ultra Deluxe Headphones,Sports,106.42,25,79.81,3.6,50,Out of Stock,ShopPlus,2025-06-21,https://example-shop.com/product/WSP0416
+WSP0417,Smart Wireless Backpack,Electronics,940.37,5,893.35,3.1,132,Limited Stock,TopSeller,2025-06-07,https://example-shop.com/product/WSP0417
+WSP0418,Ultra Wireless Speaker,Electronics,871.54,25,653.65,4.6,131,Out of Stock,OfficialStore,2025-03-06,https://example-shop.com/product/WSP0418
+WSP0419,Eco Portable Lamp,Electronics,1515.02,25,1136.26,4.7,117,In Stock,ShopPlus,2025-08-05,https://example-shop.com/product/WSP0419
+WSP0420,Pro Portable Mixer,Fashion,739.21,20,591.37,4.4,37,In Stock,QuickMart,2024-11-22,https://example-shop.com/product/WSP0420
+WSP0421,Pro Deluxe Watch,Electronics,1429.55,25,1072.16,2.3,117,Limited Stock,OfficialStore,2025-07-11,https://example-shop.com/product/WSP0421
+WSP0422,Eco Bluetooth Mixer,Home,1002.29,0,1002.29,3.9,123,Out of Stock,TopSeller,2024-12-29,https://example-shop.com/product/WSP0422
+WSP0423,Smart Compact Headphones,Electronics,1406.03,20,1124.82,3.5,115,Limited Stock,DealsHub,2025-05-17,https://example-shop.com/product/WSP0423
+WSP0424,Pro Wireless Charger,Sports,1058.36,20,846.69,3.1,41,Out of Stock,QuickMart,2025-06-14,https://example-shop.com/product/WSP0424
+WSP0425,Ultra Compact Lamp,Fashion,1057.65,0,1057.65,3.8,38,Limited Stock,ShopPlus,2024-12-19,https://example-shop.com/product/WSP0425
+WSP0426,Premium Wireless Headphones,Electronics,1768.96,0,1768.96,4.1,123,Limited Stock,TopSeller,2025-03-04,https://example-shop.com/product/WSP0426
+WSP0427,Pro Wireless Lamp,Toys,413.32,30,289.32,3.3,46,In Stock,OfficialStore,2025-04-24,https://example-shop.com/product/WSP0427
+WSP0428,Smart Deluxe Speaker,Sports,841.17,5,799.11,2.4,41,Limited Stock,QuickMart,2024-08-30,https://example-shop.com/product/WSP0428
+WSP0429,Classic Bluetooth Charger,Sports,1290.81,15,1097.19,2.9,42,In Stock,QuickMart,2025-05-14,https://example-shop.com/product/WSP0429
+WSP0430,Classic Compact Charger,Fashion,271.65,5,258.07,4.3,29,Out of Stock,TopSeller,2025-03-27,https://example-shop.com/product/WSP0430
+WSP0431,Classic Portable Charger,Home,800.44,15,680.37,3.1,132,Limited Stock,QuickMart,2025-06-27,https://example-shop.com/product/WSP0431
+WSP0432,Smart Compact Charger,Beauty,559.55,30,391.68,4.5,38,Out of Stock,ShopPlus,2024-12-26,https://example-shop.com/product/WSP0432
+WSP0433,Pro Bluetooth Speaker,Automotive,854.64,15,726.44,3.8,33,Limited Stock,TopSeller,2024-11-11,https://example-shop.com/product/WSP0433
+WSP0434,Classic Deluxe Charger,Toys,513.37,30,359.36,4.3,47,Limited Stock,QuickMart,2025-04-29,https://example-shop.com/product/WSP0434
+WSP0435,Pro Compact Backpack,Fashion,750.75,30,525.52,4.2,43,Limited Stock,QuickMart,2025-06-28,https://example-shop.com/product/WSP0435
+WSP0436,Classic Portable Headphones,Toys,474.98,10,427.48,5.0,33,Out of Stock,OfficialStore,2025-06-15,https://example-shop.com/product/WSP0436
+WSP0437,Pro Bluetooth Watch,Toys,1347.23,15,1145.15,3.9,45,In Stock,ShopPlus,2025-03-01,https://example-shop.com/product/WSP0437
+WSP0438,Eco Deluxe Mixer,Fashion,935.18,0,935.18,3.4,40,Limited Stock,QuickMart,2024-08-19,https://example-shop.com/product/WSP0438
+WSP0439,Pro Portable Lamp,Electronics,1774.34,5,1685.62,2.7,107,In Stock,DealsHub,2024-12-13,https://example-shop.com/product/WSP0439
+WSP0440,Smart Wireless Headphones,Fashion,1461.32,10,1315.19,4.2,51,Out of Stock,TopSeller,2024-12-17,https://example-shop.com/product/WSP0440
+WSP0441,Classic Wireless Watch,Toys,400.62,15,340.53,4.8,41,Limited Stock,ShopPlus,2024-10-23,https://example-shop.com/product/WSP0441
+WSP0442,Ultra Deluxe Watch,Sports,1436.16,10,1292.54,3.5,40,In Stock,QuickMart,2024-10-10,https://example-shop.com/product/WSP0442
+WSP0443,Ultra Deluxe Charger,Fashion,973.98,5,925.28,3.6,34,In Stock,ShopPlus,2025-06-19,https://example-shop.com/product/WSP0443
+WSP0444,Ultra Portable Backpack,Beauty,400.68,20,320.54,4.1,41,Out of Stock,OfficialStore,2025-05-22,https://example-shop.com/product/WSP0444
+WSP0445,Classic Portable Backpack,Toys,1261.06,20,1008.85,3.1,33,Limited Stock,TopSeller,2024-10-27,https://example-shop.com/product/WSP0445
+WSP0446,Classic Bluetooth Mixer,Automotive,354.37,30,248.06,3.4,36,Out of Stock,OfficialStore,2025-06-28,https://example-shop.com/product/WSP0446
+WSP0447,Classic Portable Watch,Fashion,714.34,5,678.62,4.3,35,Out of Stock,DealsHub,2025-08-13,https://example-shop.com/product/WSP0447
+WSP0448,Classic Bluetooth Headphones,Sports,1256.03,10,1130.43,3.3,48,Out of Stock,OfficialStore,2025-05-11,https://example-shop.com/product/WSP0448
+WSP0449,Classic Deluxe Speaker,Home,991.6,5,942.02,3.5,120,Limited Stock,TopSeller,2024-08-28,https://example-shop.com/product/WSP0449
+WSP0450,Smart Wireless Watch,Toys,741.06,10,666.95,4.4,50,In Stock,OfficialStore,2024-12-15,https://example-shop.com/product/WSP0450
+WSP0451,Pro Deluxe Mixer,Toys,1796.87,15,1527.34,3.6,43,In Stock,DealsHub,2024-12-19,https://example-shop.com/product/WSP0451
+WSP0452,Classic Wireless Watch,Sports,1228.61,10,1105.75,2.9,27,In Stock,TopSeller,2025-01-21,https://example-shop.com/product/WSP0452
+WSP0453,Smart Portable Lamp,Automotive,13.78,25,10.33,3.4,39,Limited Stock,DealsHub,2024-10-12,https://example-shop.com/product/WSP0453
+WSP0454,Eco Wireless Charger,Beauty,1001.0,25,750.75,3.3,40,Out of Stock,ShopPlus,2025-07-31,https://example-shop.com/product/WSP0454
+WSP0455,Eco Bluetooth Lamp,Home,1145.02,10,1030.52,3.0,100,In Stock,QuickMart,2025-02-20,https://example-shop.com/product/WSP0455
+WSP0456,Premium Compact Backpack,Toys,1128.09,0,1128.09,4.3,44,Out of Stock,TopSeller,2025-06-04,https://example-shop.com/product/WSP0456
+WSP0457,Classic Wireless Headphones,Beauty,1680.81,15,1428.69,3.6,46,Out of Stock,OfficialStore,2025-02-21,https://example-shop.com/product/WSP0457
+WSP0458,Pro Bluetooth Watch,Beauty,261.99,10,235.79,3.3,43,In Stock,QuickMart,2025-01-27,https://example-shop.com/product/WSP0458
+WSP0459,Ultra Wireless Charger,Sports,654.75,5,622.01,4.3,45,Out of Stock,TopSeller,2025-01-22,https://example-shop.com/product/WSP0459
+WSP0460,Eco Wireless Watch,Sports,829.8,10,746.82,4.4,40,In Stock,OfficialStore,2024-09-12,https://example-shop.com/product/WSP0460
+WSP0461,Ultra Wireless Headphones,Automotive,819.73,5,778.74,4.2,42,Out of Stock,ShopPlus,2024-11-27,https://example-shop.com/product/WSP0461
+WSP0462,Pro Deluxe Speaker,Beauty,872.03,25,654.02,3.6,45,Out of Stock,DealsHub,2025-01-09,https://example-shop.com/product/WSP0462
+WSP0463,Premium Portable Watch,Automotive,1146.87,25,860.15,3.5,35,Out of Stock,OfficialStore,2024-10-08,https://example-shop.com/product/WSP0463
+WSP0464,Ultra Compact Charger,Automotive,873.99,25,655.49,4.1,38,Out of Stock,QuickMart,2024-11-13,https://example-shop.com/product/WSP0464
+WSP0465,Premium Bluetooth Watch,Fashion,288.66,30,202.06,3.3,43,Limited Stock,DealsHub,2024-09-02,https://example-shop.com/product/WSP0465
+WSP0466,Classic Wireless Charger,Electronics,2119.46,20,1695.57,4.2,121,Limited Stock,QuickMart,2025-05-04,https://example-shop.com/product/WSP0466
+WSP0467,Eco Deluxe Watch,Toys,761.96,15,647.67,3.6,35,In Stock,QuickMart,2025-07-24,https://example-shop.com/product/WSP0467
+WSP0468,Ultra Deluxe Charger,Electronics,1605.7,20,1284.56,4.0,122,In Stock,QuickMart,2025-04-06,https://example-shop.com/product/WSP0468
+WSP0469,Smart Portable Lamp,Beauty,734.92,20,587.94,3.3,52,In Stock,QuickMart,2025-05-14,https://example-shop.com/product/WSP0469
+WSP0470,Smart Deluxe Speaker,Fashion,342.66,10,308.39,3.9,30,Out of Stock,QuickMart,2024-09-22,https://example-shop.com/product/WSP0470
+WSP0471,Eco Wireless Charger,Electronics,1264.86,0,1264.86,4.1,123,Limited Stock,ShopPlus,2025-01-23,https://example-shop.com/product/WSP0471
+WSP0472,Classic Wireless Backpack,Home,441.86,5,419.77,4.6,119,In Stock,TopSeller,2024-09-23,https://example-shop.com/product/WSP0472
+WSP0473,Ultra Portable Charger,Beauty,1013.68,25,760.26,3.4,36,Out of Stock,ShopPlus,2025-04-11,https://example-shop.com/product/WSP0473
+WSP0474,Pro Compact Backpack,Automotive,992.23,0,992.23,3.3,32,Out of Stock,OfficialStore,2025-02-27,https://example-shop.com/product/WSP0474
+WSP0475,Premium Bluetooth Backpack,Fashion,1128.94,25,846.71,3.3,35,Limited Stock,OfficialStore,2025-01-30,https://example-shop.com/product/WSP0475
+WSP0476,Pro Wireless Charger,Toys,754.21,25,565.66,3.9,42,Limited Stock,QuickMart,2025-01-09,https://example-shop.com/product/WSP0476
+WSP0477,Premium Bluetooth Mixer,Beauty,1412.13,25,1059.1,3.3,43,Out of Stock,OfficialStore,2025-01-04,https://example-shop.com/product/WSP0477
+WSP0478,Classic Compact Charger,Electronics,1173.54,20,938.83,3.1,104,Out of Stock,ShopPlus,2024-11-10,https://example-shop.com/product/WSP0478
+WSP0479,Classic Wireless Charger,Automotive,1547.44,15,1315.32,3.8,35,Limited Stock,TopSeller,2025-01-02,https://example-shop.com/product/WSP0479
+WSP0480,Pro Bluetooth Charger,Fashion,1235.96,25,926.97,3.5,49,Limited Stock,OfficialStore,2024-10-08,https://example-shop.com/product/WSP0480
+WSP0481,Classic Portable Charger,Beauty,606.3,15,515.35,3.8,49,In Stock,TopSeller,2025-08-04,https://example-shop.com/product/WSP0481
+WSP0482,Ultra Bluetooth Charger,Automotive,793.37,15,674.36,4.2,37,Out of Stock,ShopPlus,2024-09-22,https://example-shop.com/product/WSP0482
+WSP0483,Premium Bluetooth Headphones,Fashion,825.46,25,619.1,3.6,41,In Stock,QuickMart,2025-04-22,https://example-shop.com/product/WSP0483
+WSP0484,Eco Portable Mixer,Electronics,2256.88,20,1805.5,3.5,128,Limited Stock,DealsHub,2024-10-16,https://example-shop.com/product/WSP0484
+WSP0485,Pro Compact Charger,Beauty,490.79,15,417.17,3.3,23,Limited Stock,DealsHub,2024-11-01,https://example-shop.com/product/WSP0485
+WSP0486,Smart Portable Charger,Electronics,1789.84,30,1252.89,4.3,112,Out of Stock,DealsHub,2025-05-28,https://example-shop.com/product/WSP0486
+WSP0487,Pro Deluxe Headphones,Beauty,736.58,25,552.44,3.2,35,Limited Stock,TopSeller,2024-09-03,https://example-shop.com/product/WSP0487
+WSP0488,Smart Deluxe Speaker,Beauty,857.37,30,600.16,4.3,37,Limited Stock,ShopPlus,2025-07-04,https://example-shop.com/product/WSP0488
+WSP0489,Ultra Compact Charger,Sports,1431.78,5,1360.19,3.4,39,In Stock,ShopPlus,2025-02-05,https://example-shop.com/product/WSP0489
+WSP0490,Smart Portable Watch,Fashion,735.22,15,624.94,4.1,41,Limited Stock,OfficialStore,2025-05-26,https://example-shop.com/product/WSP0490
+WSP0491,Eco Bluetooth Backpack,Toys,647.4,20,517.92,3.0,34,Out of Stock,DealsHub,2025-01-13,https://example-shop.com/product/WSP0491
+WSP0492,Premium Portable Backpack,Automotive,737.19,15,626.61,3.1,42,Limited Stock,TopSeller,2025-02-02,https://example-shop.com/product/WSP0492
+WSP0493,Classic Deluxe Backpack,Toys,1185.66,0,1185.66,3.6,41,In Stock,DealsHub,2025-04-24,https://example-shop.com/product/WSP0493
+WSP0494,Premium Compact Charger,Home,775.56,30,542.89,3.6,131,In Stock,TopSeller,2025-01-20,https://example-shop.com/product/WSP0494
+WSP0495,Ultra Portable Lamp,Toys,790.78,15,672.16,4.6,31,In Stock,ShopPlus,2025-03-24,https://example-shop.com/product/WSP0495
+WSP0496,Smart Wireless Mixer,Fashion,1233.2,25,924.9,3.2,46,Limited Stock,QuickMart,2024-11-29,https://example-shop.com/product/WSP0496
+WSP0497,Eco Deluxe Headphones,Toys,285.05,15,242.29,3.7,38,Out of Stock,DealsHub,2025-03-20,https://example-shop.com/product/WSP0497
+WSP0498,Ultra Bluetooth Lamp,Automotive,680.47,15,578.4,3.6,27,In Stock,QuickMart,2025-08-12,https://example-shop.com/product/WSP0498
+WSP0499,Smart Deluxe Mixer,Toys,579.1,25,434.33,3.1,37,In Stock,OfficialStore,2025-01-29,https://example-shop.com/product/WSP0499
+WSP0500,Pro Deluxe Watch,Toys,1716.76,5,1630.92,4.9,43,Out of Stock,OfficialStore,2024-10-01,https://example-shop.com/product/WSP0500
